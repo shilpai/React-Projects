@@ -1,0 +1,14 @@
+.App {
+margin: 10px;
+}
+.btn-container {
+  display: flex;
+  gap: 10px;
+  margin-top: 15px;
+}
+
+.btn-fixed-size {
+    width: 80px; 
+    height: 40px; 
+  }
+  
